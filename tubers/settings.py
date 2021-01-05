@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = ')z(n$qd1l+u-!x$d1$66d8(t6%p*+78i9r-%#t652jx2df$4&&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['bab161792b5a.ngrok.io','127.0.0.1','tubers-test.herokuapp.com']
 
